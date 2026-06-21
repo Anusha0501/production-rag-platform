@@ -1,0 +1,17 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+sqlalchemy==2.0.36
+psycopg[binary]==3.2.3
+pydantic-settings==2.7.1
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.20
+pypdf==5.1.0
+chromadb==0.5.23
+langchain==0.3.14
+langchain-community==0.3.14
+langchain-openai==0.2.14
+langsmith==0.2.6
+pytest==8.3.4
+httpx==0.28.1
+ruff==0.8.6
